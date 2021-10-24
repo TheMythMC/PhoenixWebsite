@@ -14,13 +14,6 @@ const Home: NextPage = () => {
         <h1 className="xl:container font-bold text-black text-5xl">
           This is the site for Phoenix Project (Coming Soon)
         </h1>
-        <footer className={styles.footer}>
-          <div className=" text-center">
-            Copyright PhoenixProject, TheMythMC 2021.
-            <br/>
-            If you encounter any issues with this site, please email adam@phoenixproject.xyz
-          </div>
-        </footer>
       </main>
     </div>
   )
